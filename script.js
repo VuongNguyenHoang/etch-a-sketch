@@ -17,8 +17,8 @@ button.style.alignSelf = 'center';
 
 let box = document.createElement('box')
 body.appendChild(box);
-box.style.height='1000px';
-box.style.width='1000px';
+box.style.height='777px';
+box.style.width='777px';
 box.style.display = 'flex';
 box.style.flexDirection = 'column';
 box.style.alignSelf='center';
