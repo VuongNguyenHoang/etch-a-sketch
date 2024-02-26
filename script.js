@@ -12,7 +12,7 @@ body.appendChild(button);
 button.style.width="100px";
 button.style.height="20px";
 button.style.margin="5px";
-button.textContent= 'Start Again';
+button.textContent= 'Reset';
 button.style.alignSelf = 'center';
 
 let box = document.createElement('box')
